@@ -24,13 +24,9 @@ body {
 }
 
 .heading{
-  font-family: 'Raleway', sans-serif;
   position: absolute;
-  color: white;
-  height: 70%;
-  font-size: 50px;
-  align-items: center;
-  left: 43.5%;
+  margin-bottom: 550px;
+
 
 }
 .cards {
